@@ -1,0 +1,24 @@
+Activating the Man Down Function on your iPhone
+-----------------------------------
+
+Man Mown uses your phone’s sensors to detect your movement.
+
+What is Man Down?:
+The ‘Man Down’ function notifies a worker’s office if there has been no movement within a set amount of time (3 minutes – 1 hour). If no movement is detected the phone will sound an alarm alerting the worker that there has been no movement. If this alert is not responded to by the worker, it will be escalated to the worker’s allocated monitor and they will contact the worker. 
+
+You can set your man down timer length, and if the phone does not detect movement in this time it will start an alert:
+Step 1: The phone will try to get you to respond on the app by confirming you are on
+Step 2: The alert will be escalated to your monitors who will start the escalation procedure
+
+How to Setup Man Down:
+1. Click the cog icon to open up the settings page and choose the Man Down section
+2. Choose the amount of time you want for the man down timer. We recommend 5 minutes if you are on the move, you may choose a longer time if you don’t move as frequently
+3. Choose a suitable sensitivity – this depends on the type of phone and what movement you are doing
+ - High Sensitivity – The phone will detect movement more easily, when walking of moving when sitting down
+ - Medium Sensitivity – Our recommend setting for detecting man down
+ - Low Sensitivity – The phone will not detect light movements, you will need to walk or run to update your movement
+
+NOTE: If you make any Man Down settings changes while on shift a white popup will appear. You need to click the ‘Check In Now’ button to save the settings.
+
+How to Turn Off Man Down:
+To deactivate the Man Down function, open the Man Down settings. Scroll through the number of minutes to ‘Off’ and tap ‘Save and Back’.

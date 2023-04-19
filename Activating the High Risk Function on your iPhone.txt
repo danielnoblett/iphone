@@ -1,0 +1,12 @@
+Activating the High Risk Function on your iPhone
+--------------------------------------
+
+Sometimes people are heading into a potentially high risk situation and want a little extra protection.  For example, if they are going to a new location or leaving the worksite to complete a solitary task. This is when you want a high-risk check-in.
+
+What is High Risk Check-in:
+The Ok Alone app enables you to change your next check-in time. It can be as little as 10 minutes or as long as 5 hours.  If for some reason you don’t complete your check-in as expected, your team will be alerted and help will be sent.
+
+How to Setup a High Risk Check-in:
+On the top left of the app screen are three stacked lines, click these to open the menu. Tap on ‘High Risk’. You will have the option to choose to reduce your check in time to between 10 minutes and 5 hours. Tap the time you require.
+On the main screen your check in time is adjusted to your chosen High Risk setting. Once you have completed your task, tap Check In and the system will return to the original check in duration.
+

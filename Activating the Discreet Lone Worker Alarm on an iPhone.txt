@@ -1,0 +1,16 @@
+Activating the Discreet Lone Worker Alarm on an iPhone
+----------------------------------------------------
+
+With the Ok Alone Lone Worker App you can set short cuts on your Smartphone to start shifts, check in, get help and end a shift. If you have an iPhone 8 or later model you can activate the multi-tap function on the back of your iPhone for a discreet lone worker alarm.
+
+Before you can setup a discreet alert. You must have the “Help” shortcut available. Find out how to do this here:
+Use Siri and to Update your Status – https://docs.okalone.net/use-siri-to-check-in/
+
+How to set up the Double Tap Function:
+You can double-tap and triple-tap on the back of iPhone to perform actions such as turn on an accessibility feature or run a shortcut. To do this:
+ 1. Go to Settings  > Accessibility > Touch > Back Tap.
+ 2. Choose Double Tap or Triple Tap, then choose the Help Shortcut you created above .
+ 3. Double-tap or triple-tap on the back of iPhone to trigger the action you set.
+
+How can the Double Tap Function Help Lone Workers?:
+Activating this function will allow lone workers to access help without alerting others around them and potentially escalating a dangerous situation. Monitors will receive an alert from workers requesting immediate help. They are then able to see on their dashboard the workers precise GPS location and can immediately send the necessary assistance.

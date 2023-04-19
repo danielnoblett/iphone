@@ -1,0 +1,21 @@
+GPS Settings and Monitoring on your iPhone
+-----------------------------------
+
+The Ok Alone app uses GPS to get your current location so it can be used in case of emergency.
+
+How to Check your Location settings:
+At the top left of the app home screen are three lines, this opens the menu options
+Click the Location button to open location settings
+Underneath the Ok Alone logo, you will see a bar with four sections. The one highlighted is your current GPS setting.
+
+
+What Setting should I use?:
+We recommend you keep your phone on GPS Normal, so your location is accurate in the case of an emergency. To select the mode you need, tap the name on the bar.
+
+
+Tell more more about the 4 Options
+The four options are:
+GPS High – this uses your phone’s GPS to provide continuous location data every 10 seconds. It is the most accurate setting. The data is collected even when no cell signal is available.
+GPS Normal – this uses your phone’s GPS to provide continuous location data to the system every 1-2 minutes. With this setting the battery use is minimised whilst still providing an accurate location in case of emergency.
+Non GPS – updates your location at regular intervals. This setting maximises battery life whilst providing an approximate location. This should only be used if an accurate location is not required.
+Off – this setting does not update your location at all and means that you could be vulnerable during an emergency.

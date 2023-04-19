@@ -1,0 +1,9 @@
+Sending a Help Alert
+--------------------
+If you find yourself in a situation where you need someone to either come and help or call you immediately then Ok Alone has a help feature which makes this quick and easy.
+
+There are three options for requesting help – in the app, sms or by phone call.
+
+You can tap HELP on the app, send an sms with your worker ID number and the word HELP or call the Ok Alone number and select HELP, which is option 0.
+
+Any of these methods will send an alert immediately to your monitors letting them know you require urgent assistance.

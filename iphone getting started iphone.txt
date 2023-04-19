@@ -1,0 +1,19 @@
+Getting Started on your iPhone
+--------------------
+Here are the steps to get started on your iPhone
+
+Download App:
+Go to the App Store on your smart phone. Search ‘Ok Alone lone worker app’. Click the ‘Get’ button to install the app on your phone.
+
+Get PIN:
+Your Monitor (the person in your company who is your Ok Alone contact) will contact you either by email, SMS or phone call to give you your unique PIN number.
+
+Log In:
+Click the ‘Ok Alone’ icon on your smartphone’s screen. A pop-up will appear that will ask you for your name and PIN. Enter your information. Then click the orange ‘Get Started’ button.
+
+Accept Permissions:
+Two popups will appear asking for your permission to send notifications and access your location. Please click ‘Allow’ and ‘Allow While Using App’ so we can keep you safe.
+
+Start 1st Shift:
+Click the orange ‘Start Shift’ button to begin your shift. This will start a countdown until your next check in (the time will have been set by your monitor). The time remaining will be shown on your screen.
+

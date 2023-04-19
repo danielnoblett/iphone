@@ -1,0 +1,27 @@
+iPhone App Settings and Permissions
+-----------------------------------
+
+When installing the Ok Alone app we always recommend accepting the default permissions and settings to get the best performance and monitoring.
+
+Note: After changing any settings please restart the app and any shifts. If the settings are still not updating please re-install the app and accept the default permissions.
+
+Here are the settings and permissions we recommend:
+
+App Location Monitoring:
+For accurate location monitoring, we recommend you choose the GPS Normal setting.
+With this setting, the phone will use GPS to provide an accurate location in case of emergency while battery usage is still minimised.
+
+
+iPhone App Settings:
+We recommend you allow the app the following settings. To check these settings on your phone go to Settings >> Ok Alone
+
+Main App Settings:
+On the Ok Alone settings page, you should have these settings.
+-Location: Always
+-Mobile Data: On
+-Background App Refresh: On
+
+Notification Settings: We recommend you choose these notification settings
+
+Location Settings: For an accurate location – the location permissions should be set to Always and Precise Location should be on.
+This allows the app to update your location when it is in background mode – important in case you need assistance at any time during your shift.

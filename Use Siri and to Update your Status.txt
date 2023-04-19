@@ -1,0 +1,9 @@
+Use Siri and to Update your Status
+----------------------------------
+Did you know that since January 2019 you could have been using Ok Alone using only your voice when working alone in a vehicle, working on the move or any time you needed to be hands free? The latest version of our Ok Alone lone worker app provides Siri shortcuts so you can use Siri to update your Ok Alone status wherever you are and whatever you’re doing.
+
+What is Siri?:
+Siri is the voice controlled personal assistant on your iPhone. Siri allows you to use your voice to do things on your iPhone, such as sending an SMS, making a phone call or playing music. Any user with iOS12/13 and Ok Alone can now easily use Siri to start a shift, check in or get help – all by using your voice, completely hands free.
+
+How Does Ok Alone Work with Siri?:
+When you have installed Ok Alone and registered your account using your Worker ID, you will be provided with some shortcuts to Siri. These short cuts allow you to ‘Open Ok Alone, ‘Start Shift’, Check In’, ‘Get Help’ or ‘End Shift.’ All you need to do is setup a voice command for each action and you’re ready to go. This then allows you to use your voice to ask Siri to perform actions on the Ok Alone lone worker app.
